@@ -66,9 +66,4 @@ while not logical and count_conn_try<5:
         count_conn_try=0
 if count_conn_try==5:
     print('Сервер недоступен было сделано 5 попыток подключения')
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+
