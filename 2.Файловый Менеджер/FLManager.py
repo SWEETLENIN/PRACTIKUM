@@ -163,6 +163,7 @@ def command_prompt():
     }
 
     while True:
+        print_help_string()
         command = input('CommandPrompt:/' + '/'.join(current_directory[1:]) + '$ ').split()
         if command[0] == 'exit':
             break
