@@ -10,63 +10,92 @@
 
 1. Создание папки (с указанием имени);
 
-![image](https://user-images.githubusercontent.com/70803921/141638425-c1c4d7ff-ddb4-41a3-a3ce-a55b345a16d0.png)
-![image](https://user-images.githubusercontent.com/70803921/141638667-04bdd81e-f126-4b8f-933a-6fb821bf8763.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385174-8933901d-ead8-45f7-90c2-e2e8628dd65f.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385114-8144c54f-d131-4374-8cf9-841833fb86eb.png)
+
 
 2. Удаление папки по имени;
 
-![image](https://user-images.githubusercontent.com/70803921/141638826-1380dde5-72a3-4198-8bc5-9dd3b4332b40.png)
-![image](https://user-images.githubusercontent.com/70803921/141638937-814e2293-a991-42d4-afed-cc33c1abe615.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385285-04c92b15-d3f2-4e12-80cb-1262352303cc.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385340-10e38939-90cc-4803-bc35-72d9dd040162.png)
+
 
 3. Перемещение между папками (в пределах рабочей папки) - заход в папку по имени, выход на уровень вверх;
 
-![image](https://user-images.githubusercontent.com/70803921/141639393-4d0aedec-b9a4-4788-b80c-894161a01991.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385469-94d4410d-daa7-42dd-90cf-52a71ec13693.png)
+
+
 
 4. Создание пустых файлов с указанием имени;
 
-![image](https://user-images.githubusercontent.com/70803921/141639567-28d1754f-73bc-4244-91a4-604ad51e66ff.png)
-![image](https://user-images.githubusercontent.com/70803921/141639911-29ac223f-82fa-4e96-b0b7-3f0aa5553811.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385655-94e88190-36f5-456b-b98e-b25f4f83ee86.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385630-21976ff3-82b0-4299-a02b-bda89bdc2fe8.png)
+
 
 5. Запись текста в файл;
 
-![image](https://user-images.githubusercontent.com/70803921/141640199-59175156-529b-4a2e-80d8-4b1a5ffbc4bd.png)
-![image](https://user-images.githubusercontent.com/70803921/141640347-0e2a0e3f-7314-41de-a55e-c70cb728166e.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142385770-0fb510c1-8041-49fe-8f80-ad448e656724.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142386182-81745036-9018-4215-8aea-b53edd15f4dc.png)
+
 
 6. Просмотр содержимого текстового файла;
 
-![image](https://user-images.githubusercontent.com/70803921/141640525-c1b5ba80-c862-42d8-b753-d60d0f3c9047.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142386297-ee40b045-10b1-40ab-a94a-8c7e8c86e367.png)
+
 
 7. Удаление файлов по имени;
 
-![image](https://user-images.githubusercontent.com/70803921/141640889-e6bf4bd1-20eb-4d16-84e3-e192276474a3.png)
-![image](https://user-images.githubusercontent.com/70803921/141641063-b89f1a4b-3706-4fcf-85bd-88e394d46e6d.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142386374-8f37d8c6-aec7-4aae-ac78-d61a515f1f2d.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142386441-cb27f73e-a3df-4508-bd9b-2aeb07a420de.png)
+
 
 8. Копирование файлов из одной папки в другую;
 
-![image](https://user-images.githubusercontent.com/70803921/141641507-afead430-194b-42f5-bb74-a78083cc3a80.png)
-![image](https://user-images.githubusercontent.com/70803921/141641632-735f8f71-680c-43ae-baf6-f5abe039bbd9.png)
-![image](https://user-images.githubusercontent.com/70803921/141641764-c11f6321-2df3-4f13-88cd-2ab6699995ef.png)
-![image](https://user-images.githubusercontent.com/70803921/141641883-8895f885-6c2b-4b32-b9e4-bab2c7ca3598.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142386653-8a671daf-0dd8-4c46-8cc9-dae58cdbb4bf.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142386818-299b3a40-94f7-4e19-b7fb-5fd2e31b085c.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142386701-1fb2023b-daf8-4272-90be-f26cc22ca13e.png)
+
 
 9. Перемещение файлов;
 
-![image](https://user-images.githubusercontent.com/70803921/141642031-623feda2-a431-403f-96bd-732b4d98865d.png)
-![image](https://user-images.githubusercontent.com/70803921/141642045-4c52233a-533d-42f4-b9ec-fa45ce93ab45.png)
+![image](https://user-images.githubusercontent.com/90088335/142387117-eb7552e5-65f1-4165-81bc-03e14d49b636.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142387172-3e65719d-aa98-457b-a690-925cab405ebd.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142387215-0b2b0046-d9ba-4bd9-9cb7-dd611a049fd0.png)
+
 
 10. Переименование файлов.
 
-![image](https://user-images.githubusercontent.com/70803921/141642053-c66e61c8-f9b0-4575-af62-2a0ab665a880.png)
-![image](https://user-images.githubusercontent.com/70803921/141642060-8ad22576-8a5e-498d-85ae-242e0586391b.png)
+![image](https://user-images.githubusercontent.com/90088335/142387398-8f845faf-404a-44da-b7a4-5a1eee422ed2.png)
+
+![image](https://user-images.githubusercontent.com/90088335/142387426-e93b2334-2d0e-4105-a4f9-44042ea512e5.png)
+
 
 **Указания к выполнению**
 
 1. Расположение рабочей папки должно указываться в настройках файлового менеджера. Настройки должны располагаться в отдельном от основного исходного кода файле.
 
-![image](https://user-images.githubusercontent.com/70803921/141642080-83767ddb-13f2-4aaa-bf8d-0a250c374a5a.png)
+![image](https://user-images.githubusercontent.com/90088335/142387662-726e5e95-dd12-4740-b1c8-b66af1a81eee.png)
 
 2. Файловый менеджер должен блокировать пользователя от выхода за пределы рабочей папки. Пользователь должен воспринимать рабочую папку как корневую и все действия файлового менеджера должны локализоваться только в пределах этой папки.
 
-![image](https://user-images.githubusercontent.com/70803921/141642114-f80c59dc-2203-482e-88eb-0ce8db3da9ce.png)
+![image](https://user-images.githubusercontent.com/90088335/142388143-b09214f9-b282-4f83-b5af-9f983fbcc599.png)
 
 3. Программный проект должен быть оформлен как код на языке программирования Python и располагаться в определенной папке. Проект должен состоять из нескольких файлов. Расположение рабочей папки не должно быть связано с физическим расположением файлов исходного кода.
 4. Файловый менеджер по умолчанию должен иметь текстовый интерфейс по аналогии с интерфейсом командной строки. Действия пользователя осуществляются вводом с клавиатуры соответствующей команды (по необходимости с параметрами).
@@ -81,16 +110,15 @@
 
 Выход:
 
-![image](https://user-images.githubusercontent.com/70803921/141642130-bc6a66da-bff4-43f6-8ed5-4d6cab192000.png)
+![image](https://user-images.githubusercontent.com/90088335/142388425-016802dc-e991-441f-8d77-f2cbb6b5bb60.png)
 
 Заводим нового пользователя:
 
-![image](https://user-images.githubusercontent.com/70803921/141642140-7c894348-3abf-48b8-a2fd-8af430a6d79b.png)
-![image](https://user-images.githubusercontent.com/70803921/141642211-2edcfdf5-6f84-45f9-be14-201ec0a647fb.png)
-![image](https://user-images.githubusercontent.com/70803921/141642203-0206281a-36aa-451a-b546-729822fa9d18.png)
-![image](https://user-images.githubusercontent.com/70803921/141642217-51201104-4f7b-4469-90ed-3b42a7cfd4da.png)
+![image](https://user-images.githubusercontent.com/90088335/142388567-6f78aa4a-7c5d-4d17-8ee8-d8e8c5124118.png)
+![image](https://user-images.githubusercontent.com/90088335/142388671-9e3563a4-b59f-445a-9647-7f0a54b25f95.png)
 
-2. Придумайте и добавьте дополнительные функциональные возможности для файлового менеджера. Сделаю: Квотирование дискового пространства и отображение занятого оставшегося места.
+2. Придумайте и добавьте дополнительные функциональные возможности для файлового менеджера. Ограничю дисковое пространство рабочей папки и  сделаю отображение занятого и оставшегося места.
 
-![image](https://user-images.githubusercontent.com/70803921/141642229-ef7e7a35-3506-452a-a614-5e77a83e4655.png)
+![image](https://user-images.githubusercontent.com/90088335/142389051-f73decd3-d6bd-4278-aad3-64d88450c1b1.png)
+
 
