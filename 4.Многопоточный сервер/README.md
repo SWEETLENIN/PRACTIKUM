@@ -43,27 +43,27 @@ Conversion notes:
 
     1. Отключение сервера (завершение программы);
     
-    ![image](https://user-images.githubusercontent.com/90088335/142395419-2cc84ed5-4cd9-4cb9-b04e-44606452c970.png)
+   ![image](https://user-images.githubusercontent.com/90088335/142395419-2cc84ed5-4cd9-4cb9-b04e-44606452c970.png)
 
     2. Пауза (остановка прослушивание порта);
 
-    ![image](https://user-images.githubusercontent.com/90088335/142395601-180fc6d4-e3c6-48cd-8cb7-e3c6e8ea9b0b.png)
+   ![image](https://user-images.githubusercontent.com/90088335/142395601-180fc6d4-e3c6-48cd-8cb7-e3c6e8ea9b0b.png)
 
-    ![image](https://user-images.githubusercontent.com/90088335/142395709-6ad7edf4-957c-4737-9c21-e81c7f426719.png)
+   ![image](https://user-images.githubusercontent.com/90088335/142395709-6ad7edf4-957c-4737-9c21-e81c7f426719.png)
 
     3. Показ логов;
 
-    ![image](https://user-images.githubusercontent.com/90088335/142395804-7e22c6f0-cf3d-4130-8554-b40c04133e65.png)
+   ![image](https://user-images.githubusercontent.com/90088335/142395804-7e22c6f0-cf3d-4130-8554-b40c04133e65.png)
 
     4. Очистка логов;
 
-    ![image](https://user-images.githubusercontent.com/90088335/142395895-d17edfed-38d5-4226-a241-528e045c5598.png)
+ ![image](https://user-images.githubusercontent.com/90088335/142395895-d17edfed-38d5-4226-a241-528e045c5598.png)
 
     5. Очистка файла идентификации.
       
-    ![image](https://user-images.githubusercontent.com/90088335/142396040-b345b975-7fd3-4302-bf8b-fcf91414b239.png)
+   ![image](https://user-images.githubusercontent.com/90088335/142396040-b345b975-7fd3-4302-bf8b-fcf91414b239.png)
     
-    ![image](https://user-images.githubusercontent.com/90088335/142396130-84faf35a-8b9e-4076-8d75-3cacb158fb5c.png)
+   ![image](https://user-images.githubusercontent.com/90088335/142396130-84faf35a-8b9e-4076-8d75-3cacb158fb5c.png)
 
 
 <!-- Docs to Markdown version 1.0β17 -->
